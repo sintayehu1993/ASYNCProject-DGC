@@ -1,0 +1,3 @@
+# ASYNCProject-DGC
+
+This project is focused on making a reac-nativ giftcard app with expo...
